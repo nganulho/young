@@ -1,0 +1,20 @@
+{
+    "name": "123movies-tvland/younger-season-6-episode-2-tv-streaming",
+    "description": "Watch Younger Season 6 Episode 2 Online Free putlocker S06e02 WATCH FULL EPISODES HERE (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["Younger Season 6 Episode 2 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/AP078yEQ2U",
+            "homepage": "https://t.co/AP078yEQ2U",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
